@@ -15,7 +15,7 @@ timezone:
 url: http://DDuns.github.io
 root: /
 permalink: :year/:month/:day/:title/
-permalink_defaults:
+permalink_defaults: /404.html
 
 # Directory
 source_dir: source
